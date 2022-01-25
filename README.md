@@ -2,6 +2,5 @@
 
 ### npm start
 
-### Chat App
-
-Microsoft Teams Chat Clone
+## Chat App
+### Microsoft Teams Chat Clone
